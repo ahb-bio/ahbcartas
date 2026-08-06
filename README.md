@@ -53,25 +53,6 @@ Diagramas ilustrados e guias passo a passo para execução de tiragens oraculare
 
 ---
 
-## 📁 Estrutura do Projeto
-
-```text
-desvendando-oraculos/
-├── public/                 # Imagens das cartas e assets estáticos
-├── src/
-│   ├── components/         # Componentes React (Galerias, Modais, Tiragens, Nav)
-│   ├── data/               # Dados estruturados (lenormandData.ts, tarotData.ts)
-│   ├── types.ts            # Definições de interfaces TypeScript
-│   ├── App.tsx             # Componente raiz da aplicação
-│   ├── index.css           # Configurações de estilos globais
-│   └── main.tsx            # Ponto de entrada do React
-├── site_para_github_pages/ # Versão pronta para deploy no GitHub Pages (Pasta Plana)
-├── index.html              # HTML principal
-├── vite.config.ts          # Configuração de build do Vite
-└── package.json            # Dependências e scripts do projeto
-```
-
----
 
 ## 🚀 Como Executar Localmente
 
